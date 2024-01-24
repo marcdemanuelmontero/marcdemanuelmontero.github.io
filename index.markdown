@@ -6,7 +6,7 @@ layout: default
 ---
 ## About me
 
-I am a computational biologist working in [Molly Przeworski's lab](https://przeworskilab.com/) at Columbia University. Every biological adaptation emerges from an accidental alteration to the genome that, through genetic shuffling and the interplay of drift and selection, eventually establishes itself in a population. My current research focuses on understanding two fundamental mechanisms in this evolutionary process: mutation and recombination.
+I am a computational biologist working in the [lab of  Molly Przeworski'](https://przeworskilab.com/) at Columbia University. Every biological adaptation emerges from an accidental alteration to the genome that, through genetic shuffling and the interplay of drift and selection, eventually establishes itself in a population. My current research focuses on understanding two fundamental mechanisms in this evolutionary process: mutation and recombination.
 
 You can find a list of publications at my [Google scholar](https://scholar.google.com/citations?user=I7GqCNkAAAAJ&hl=en&oi=ao) profile.
 
